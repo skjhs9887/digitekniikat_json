@@ -1,5 +1,5 @@
 // Haetaan tehtävä 1:sen JSON-data
-fetch('https://run.mocky.io/v3/eed74f57-da7d-4f43-8e51-73ee8357f921')
+fetch('https://skjhs9887.github.io/digitekniikat_json/tehtava1.JSON')
     .then(function(response) {
         return response.json();
     })
