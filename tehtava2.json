@@ -1,0 +1,22 @@
+{
+    "otsikko": "Digitekniikat - DIG007AS2A-3012",
+    "osallistujien_lkm": 3,
+    "aloituspvm": "2025-01-01",
+    "lopetuspvm": "2025-02-28",
+    "kesto_viikkoina": 8,
+    "kuva": "https://github.com/skjhs9887/digitekniikat_json/blob/main/logo.jpeg?raw=true",
+    "nimitiedot": [
+      {
+        "etunimi": "Jaska",
+        "sukunimi": "Jokunen"
+      },
+      {
+        "etunimi": "Maija",
+        "sukunimi": "Meikäläinen"
+      },
+      {
+        "etunimi": "Aku",
+        "sukunimi": "Ankka"
+      }
+    ]
+  }
