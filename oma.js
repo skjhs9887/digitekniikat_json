@@ -12,7 +12,7 @@ fetch('https://skjhs9887.github.io/digitekniikat_json/tehtava1.JSON')
     });
 
 // Haetaan tehvävä 2:sen JSON-data
-fetch('https://run.mocky.io/v3/14996777-6170-490e-abde-caf037841146')
+fetch('https://skjhs9887.github.io/digitekniikat_json/tehtava2.JSON')
     .then(function(response) {
         return response.json();
     })
